@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-break-components/static/css/main.df05d1f3.chunk.css",
+    "main.js": "/React-break-components/static/js/main.6cf04227.chunk.js",
+    "main.js.map": "/React-break-components/static/js/main.6cf04227.chunk.js.map",
+    "runtime-main.js": "/React-break-components/static/js/runtime-main.35f89ea1.js",
+    "runtime-main.js.map": "/React-break-components/static/js/runtime-main.35f89ea1.js.map",
+    "static/js/2.7634e174.chunk.js": "/React-break-components/static/js/2.7634e174.chunk.js",
+    "static/js/2.7634e174.chunk.js.map": "/React-break-components/static/js/2.7634e174.chunk.js.map",
+    "index.html": "/React-break-components/index.html",
+    "precache-manifest.a41320341fd941235eb27b337a03ebcc.js": "/React-break-components/precache-manifest.a41320341fd941235eb27b337a03ebcc.js",
+    "service-worker.js": "/React-break-components/service-worker.js",
+    "static/css/main.df05d1f3.chunk.css.map": "/React-break-components/static/css/main.df05d1f3.chunk.css.map",
+    "static/js/2.7634e174.chunk.js.LICENSE.txt": "/React-break-components/static/js/2.7634e174.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-break-components/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35f89ea1.js",
+    "static/js/2.7634e174.chunk.js",
+    "static/css/main.df05d1f3.chunk.css",
+    "static/js/main.6cf04227.chunk.js"
+  ]
+}
