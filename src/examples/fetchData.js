@@ -43,7 +43,10 @@ const CardList = (props) => (
 
 const Card = (props) => (
   <div className="card-container">
-    <img alt="user" src={`https://robohash.org/${props.user.id}?set=set2`} />
+    <img
+      alt="user"
+      src={`https://robohash.org/${props.user.id}?set=set2&size=180x180`}
+    />
     <h2>{props.user.name}</h2>
     <p>{props.user.email}</p>
     <p>{props.user.username}</p>
